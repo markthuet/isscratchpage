@@ -1,0 +1,20 @@
+body { background-color: black !important;}
+
+h1,h2,h3 {color:beige;
+    font-size:x-large;
+}
+ul {color:white;
+font-size: 25px}
+
+
+a {color:beige;
+}
+
+.myDiv{
+    color: yellow;
+    font-family: sans-serif;
+}
+.myDiv2{
+color:yellow;
+font-family: sans-serif;
+}
